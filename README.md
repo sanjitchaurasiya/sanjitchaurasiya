@@ -46,13 +46,6 @@
 
 <br/>
 
-<h3 align="center">📈 CODING ACTIVITY</h3>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjitchaurasiya&bg_color=0D1117&color=00BFFF&line=33CCFF&point=FFFFFF&hide_border=true" width="100%" />
-</div>
-
-<br/>
-
 <h3 align="center">🛠️ TECHNOLOGIES & TOOLS</h3>
 <div align="center">
   <table>
@@ -81,10 +74,15 @@
 
 <br/>
 
-<h3 align="center">📊 OVERALL STATS</h3>
+<h3 align="center">📊 LIVE METRICS</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjitchaurasiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjitchaurasiya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjitchaurasiya&bg_color=0D1117&color=00BFFF&line=33CCFF&point=FFFFFF&hide_border=true" width="100%" />
+  
+  <br/><br/>
+
+  <img src="https://img.shields.io/github/followers/sanjitchaurasiya?style=for-the-badge&logo=github&color=23272d&labelColor=00BFFF&label=Followers"/>
+  <img src="https://img.shields.io/github/stars/sanjitchaurasiya?style=for-the-badge&logo=apachespark&color=23272d&labelColor=00BFFF&label=Total%20Stars"/>
+  <img src="https://img.shields.io/github/issues-pr-closed/sanjitchaurasiya?style=for-the-badge&logo=git&color=23272d&labelColor=00BFFF&label=Pull%20Requests"/>
 </div>
 
 <br/>
