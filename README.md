@@ -12,8 +12,16 @@
 
 <div align="center">
   <p width="600px">
-    I specialize in building <b>scalable web infrastructures</b>, automating businesses with <b>Telegram bots</b>, and providing premium digital services. My goal is to bridge the gap between complex server infrastructure and user-friendly experiences.
+    I specialize in building <b>scalable web infrastructures</b>, automating businesses with <b>Telegram bots</b>, and providing premium digital services.
   </p>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sanjitchaurasiya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" />
+  </a>
 </div>
 
 <br/>
@@ -74,24 +82,13 @@
 
 <br/>
 
-<h3 align="center">📊 PERFORMANCE METRICS</h3>
+<h3 align="center">📊 GITHUB STATS</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjitchaurasiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjitchaurasiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjitchaurasiya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" />
 </div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjitchaurasiya&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
-</div>
 
 <br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=100%"/>
-  <br/><br/>
-  <b>⚡ Web Development</b> • <b>🤖 Custom Telegram Bots</b> • <b>☁️ Server Management (VPS/cPanel)</b>
-  <br/><br/>
-</div>
 
 <div align="center">
   <a href="https://t.me/SANJIT_CHAURASIYA" target="_blank">
