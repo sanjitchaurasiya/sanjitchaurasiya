@@ -19,14 +19,6 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sanjitchaurasiya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
   <h3>🚀 MY DIGITAL EMPIRE</h3>
   <table>
     <tr>
@@ -50,6 +42,13 @@
       </td>
     </tr>
   </table>
+</div>
+
+<br/>
+
+<h3 align="center">📈 CODING ACTIVITY</h3>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjitchaurasiya&bg_color=0D1117&color=00BFFF&line=33CCFF&point=FFFFFF&hide_border=true" width="100%" />
 </div>
 
 <br/>
@@ -82,7 +81,7 @@
 
 <br/>
 
-<h3 align="center">📊 GITHUB STATS</h3>
+<h3 align="center">📊 OVERALL STATS</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanjitchaurasiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjitchaurasiya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" />
