@@ -39,6 +39,12 @@
 
 ---
 
+<h2 align="center">🐍 My Contributions</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sanjitchaurasiya/sanjitchaurasiya/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+
 <h2 align="center">🛠️ Tech Arsenal</h2>
 
 <div align="center">
