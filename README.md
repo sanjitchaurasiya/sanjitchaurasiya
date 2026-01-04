@@ -1,78 +1,83 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,238636,0d1117&height=300&section=header&text=Sanjit%20Chaurasiya&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Tech%20Entrepreneur%20%7C%20Full%20Stack%20Developer%20%7C%20Innovator&descAlignY=55&descAlign=55" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00F260,0575E6&height=280&section=header&text=Sanjit%20Chaurasiya&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&descAlignY=60&descAlign=55" alt="Header" width="100%" />
 </div>
 
 <div align="center">
-  <h3>🚀 transforming ideas into digital reality</h3>
-  <p>
-    I am a <b>Tech Entrepreneur</b> and <b>Developer</b> based in India. 
-    I specialize in building scalable web platforms, digital marketing solutions, and high-performance applications.
-  </p>
-  
-  <a href="mailto:support@sketchleader.com">
-    <img src="https://img.shields.io/badge/Email-support%40sketchleader.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=33CCFF&center=true&vCenter=true&width=500&lines=Bot+Developer;Full+Stack+Web+Developer;Tech+Entrepreneur;Open+Source+Contributor" alt="Typing Animation" />
   </a>
-  <a href="https://linkedin.com/in/sanjitchaurasiya">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</div>
+
+<div align="center">
+  <a href="https://t.me/sanjit_chaurasiya" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@sanjit__chaurasiya-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:support@sketchleader.com">
+    <img src="https://img.shields.io/badge/Email-support@sketchleader.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://sanjitchaurasiya.site">
     <img src="https://img.shields.io/badge/Website-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </div>
 
-<br />
-
----
-
-### 🌐 My Ventures & Platforms
-I own and manage a diverse ecosystem of digital platforms. Check them out:
-
-| **Brand / Platform** | **Role** | **Description** | **Link** |
-| :--- | :--- | :--- | :---: |
-| <img src="https://cdn-icons-png.flaticon.com/512/1055/1055666.png" width="20"/> **Sketchleader** | **Founder** | Premium design resources, UI/UX assets, and creative tools for developers. | [**Visit ↗**](https://sketchleader.com) |
-| <img src="https://cdn-icons-png.flaticon.com/512/1968/1968666.png" width="20"/> **Aapka SMM Store** | **Owner** | Advanced Social Media Marketing (SMM) panel for brand growth. | [**Visit ↗**](https://aapkasmmstore.in) |
-| <img src="https://cdn-icons-png.flaticon.com/512/3069/3069172.png" width="20"/> **SanjitChaurasiya** | **Developer** | My official personal portfolio and developer showcase. | [**Visit ↗**](https://sanjitchaurasiya.site) |
-
----
-
-### 🛠️ Technical Arsenal
-My preferred tools for building premium solutions:
+<br/>
 
 <div align="center">
+  <h3 align="center">🏆 My GitHub Achievements</h3>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sanjitchaurasiya&theme=onestar&no-frame=true&column=7&margin-w=15&margin-h=15" alt="sanjitchaurasiya" />
+  </a>
+</div>
 
-| **Core Stack** | **Frameworks & CMS** | **Infrastructure & Tools** |
-| :---: | :---: | :---: |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=WordPress&logoColor=white) | ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) |
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
+<br/>
 
+---
+
+### 👨‍💻 About Me
+I am a **Bot Developer** and **Web Developer** passionate about automation and scaling digital businesses. I build intelligent bots, high-performance websites, and manage multiple digital platforms.
+
+- 🤖 I specialize in **Telegram Bots, Discord Bots, and Automation**.
+- 💻 I build scalable web apps using **React, PHP, and Node.js**.
+- 🚀 I am the founder of **Sketchleader** and **Aapka SMM Store**.
+- ⚡ **Fun Fact:** I turn coffee into code and ideas into reality.
+
+---
+
+### 🚀 My Digital Ecosystem (Premium Portfolio)
+I own and manage these live platforms:
+
+| **Platform Name** | **Role** | **Description** | **Access** |
+| :--- | :--- | :--- | :---: |
+| <img src="https://cdn-icons-png.flaticon.com/512/1055/1055666.png" width="20"/> **Sketchleader** | **Founder** | Premium design resources & creative assets. | [**Visit Site**](https://sketchleader.com) |
+| <img src="https://cdn-icons-png.flaticon.com/512/1968/1968666.png" width="20"/> **Aapka SMM Store** | **Owner** | Advanced Social Media Marketing (SMM) Panel. | [**Visit Site**](https://aapkasmmstore.in) |
+| <img src="https://cdn-icons-png.flaticon.com/512/3069/3069172.png" width="20"/> **Sanjit Chaurasiya** | **Developer** | Official Developer Portfolio. | [**Visit Site**](https://sanjitchaurasiya.site) |
+
+---
+
+### 🛠️ 3D Tech Stack
+<div align="center">
+  <p>Languages, Frameworks & Tools I use:</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,react,nodejs,mysql,git,vscode,wordpress,cloudflare,bootstrap,materialui&perline=7" />
+  </a>
 </div>
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Analytics
 <div align="center">
   <br/>
-  <a href="https://github.com/sanjitchaurasiya">
-    <img src="https://github-readme-stats.vercel.app/api?username=sanjitchaurasiya&show_icons=true&theme=react&bg_color=0d1117&title_color=238636&text_color=ffffff&hide_border=true&count_private=true" alt="Sanjit's Stats" />
-  </a>
-  
-  <br/><br/>
-  
-  <a href="https://github.com/sanjitchaurasiya">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjitchaurasiya&layout=compact&theme=react&bg_color=0d1117&title_color=238636&text_color=ffffff&hide_border=true" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjitchaurasiya&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=33CCFF&icon_color=00F260" alt="Sanjit's Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjitchaurasiya&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=33CCFF" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjitchaurasiya&theme=radical&hide_border=true&background=0d1117&ring=33CCFF&fire=00F260&currStreakNum=ffffff" alt="Streak" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,238636,0d1117&height=120&section=footer" width="100%" />
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0575E6,00F260&height=100&section=footer" width="100%" />
   <br />
-  
-  <img src="https://komarev.com/ghpvc/?username=sanjitchaurasiya&style=flat-square&label=Profile+Views&color=238636" alt="Views" />
-  <br />
-  <sub>© 2024 Sanjit Chaurasiya. All Rights Reserved.</sub>
+  <img src="https://komarev.com/ghpvc/?username=sanjitchaurasiya&style=flat-square&label=Profile+Views&color=0575E6" alt="Profile Views" />
 </div>
