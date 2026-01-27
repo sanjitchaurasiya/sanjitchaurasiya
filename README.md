@@ -81,3 +81,12 @@ I own and manage these live platforms:
   <br />
   <img src="https://komarev.com/ghpvc/?username=sanjitchaurasiya&style=flat-square&label=Profile+Views&color=0575E6" alt="Profile Views" />
 </div>
+
+<p align="center">
+  <a href="https://github.com/sponsors/San867">
+    <img src="https://img.shields.io/badge/Sponsor-Sanjit%20Chaurasiya-ff69b4?style=for-the-badge&logo=github-sponsors" alt="Sponsor Sanjit" />
+  </a>
+</p>
+
+> Your support helps me maintain my scripts and cover the server costs for **sanjitchaurasiya.site**. Every bit counts!
+
