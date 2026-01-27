@@ -74,6 +74,14 @@ I own and manage these live platforms:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjitchaurasiya&theme=radical&hide_border=true&background=0d1117&ring=33CCFF&fire=00F260&currStreakNum=ffffff" alt="Streak" />
 </div>
 
+<p align="center">
+  <a href="https://github.com/sponsors/sanjitchaurasiya">
+    <img src="https://img.shields.io/badge/Sponsor-Sanjit%20Chaurasiya-ff69b4?style=for-the-badge&logo=github-sponsors" alt="Sponsor Sanjit" />
+  </a>
+</p>
+
+> Your support helps me maintain my scripts and cover the server costs for **sanjitchaurasiya.site**. Every bit counts!
+
 ---
 
 <div align="center">
@@ -82,11 +90,4 @@ I own and manage these live platforms:
   <img src="https://komarev.com/ghpvc/?username=sanjitchaurasiya&style=flat-square&label=Profile+Views&color=0575E6" alt="Profile Views" />
 </div>
 
-<p align="center">
-  <a href="https://github.com/sponsors/sanjitchaurasiya">
-    <img src="https://img.shields.io/badge/Sponsor-Sanjit%20Chaurasiya-ff69b4?style=for-the-badge&logo=github-sponsors" alt="Sponsor Sanjit" />
-  </a>
-</p>
-
-> Your support helps me maintain my scripts and cover the server costs for **sanjitchaurasiya.site**. Every bit counts!
 
